@@ -7,7 +7,7 @@ import java.util.TreeMap;
 
 /**
  * @author Bennour Ilyass
- * @version 1.0
+ * @version 0.0.1
  * 
  * CountingSymptoms count the occurrences of a string in a list and give the total 
  * of each string. 
