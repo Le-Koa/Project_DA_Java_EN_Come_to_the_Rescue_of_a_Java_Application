@@ -8,7 +8,7 @@ import java.util.Map.Entry;
 import java.util.TreeMap;
 /**
  *@author Bennour Ilyass
- *@version 1.0
+ *@version 0.0.1
  *
  *WriteSymptomFile create a file in a specified path
  *and write the occurrences of each symptoms
