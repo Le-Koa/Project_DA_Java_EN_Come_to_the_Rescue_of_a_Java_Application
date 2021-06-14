@@ -32,7 +32,7 @@ public class WriteSymptomFile implements ISymptomWriteFile {
 
 		File writer = new File(outputfilepath);
 		BufferedWriter result = null;
-		
+
 		try {
 
 			result = new BufferedWriter(new FileWriter(writer));
